@@ -1,0 +1,95 @@
+/*#05368B
+#379683
+#5CDB95
+#8EE4AF
+#EDF5E1*/
+
+@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&family=Martian+Mono:wght@100..800&display=swap');
+
+
+
+
+body{
+background-color:#5CDB95;
+margin:0px auto;
+text-decoration: none;
+font-family: "Martian Mono", monospace;
+}
+
+
+
+
+.head-title{
+font-size: 30px;
+color:#EDF5E1
+}
+
+.head{
+text-align: center;
+}
+
+.head-menu {
+margin:0px auto;
+width: 80%;
+display:flex;
+justify-content:space-between;
+}
+
+.head-menu a {
+font-size:30px;
+text-decoration: none;
+color:#05368B
+}
+
+
+.photo-main {
+  width:80%;
+  margin:3% auto;
+
+
+
+}
+
+
+.objects {
+max-width: max-content;
+display: flex;
+justify-content: center;
+margin:10px;
+font-size:30px;
+color:#EDF5E1; 
+}
+
+.objects img {
+width:500px;
+height:500px;
+}
+
+.text {
+  padding: 4px;
+}
+
+
+
+.goroh-main  {
+  height:100%;
+  width:100%;
+  object-fit: cover;
+
+}
+
+ a {
+  font-size:30px;
+  color:#EDF5E1;
+}
+
+
+
+
+.footer-copyright {
+  margin-top:10px;
+  font-size:0.9em;
+  text-align: center;
+  color:#EDF5E1;
+  padding:1%;
+}
