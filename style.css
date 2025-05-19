@@ -84,6 +84,17 @@ height:500px;
 }
 
 
+.main {
+display: flex;
+justify-content: center;
+}
+
+.main img {
+  height:1000px;
+  width:1500px;
+}
+
+
 
 
 .footer-copyright {
