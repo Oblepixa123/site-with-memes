@@ -28,7 +28,7 @@
 
 ## Внешний вид проекта
 
-![](skryn.jpeg)
+![](scryn.jpeg)
 ![](scrun.jpeg)
 
 
